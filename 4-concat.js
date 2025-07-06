@@ -3,7 +3,7 @@ const arg2 = process.argv[3];
 
 console.log('${arg1} is ${arg2}');
 
-const lines = ["C is cool", "Python is fun", "Javascript is amazing"];
+const lines = ["C cool", "Python fun", "Javascript is amazing"];
 for (const line of lines) {
   console.log(line);
 }
